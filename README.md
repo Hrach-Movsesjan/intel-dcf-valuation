@@ -37,9 +37,9 @@ The Reverse DCF suggests that justifying the reference market price would requir
 
 ## Project Files
 
-**Excel DCF Model** – Interactive financial model with scenario switches, forecasts and valuation calculations.
+**[Excel DCF Model](Intel_DCF_Valuation_Model.xlsx)** – Interactive financial model with scenario switches, forecasts and valuation calculations.
 
-**Equity Research Report** – Detailed analysis of assumptions, methodology, valuation results, risks and limitations.
+**[Equity Research Report (PDF)](Intel_Equity_Research_Report.pdf)** – Detailed analysis of assumptions, methodology, valuation results, risks and limitations.
 
 ## Data Sources
 
